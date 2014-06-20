@@ -1,0 +1,7 @@
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\bin\Debug\DeleteSQLDataFile.exe.config
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\bin\Debug\DeleteSQLDataFile.exe
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\bin\Debug\DeleteSQLDataFile.pdb
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\obj\Debug\DeleteSQLDataFile.exe
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\obj\Debug\DeleteSQLDataFile.pdb
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\obj\Debug\DeleteSQLDataFile.csprojResolveAssemblyReference.cache
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\bin\Debug\settings.xml

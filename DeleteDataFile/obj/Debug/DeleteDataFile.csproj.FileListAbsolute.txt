@@ -1,0 +1,20 @@
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\bin\Debug\DeleteDataFile.exe.config
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\bin\Debug\settings.xml
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\bin\Debug\DeleteDataFile.exe
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\bin\Debug\DeleteDataFile.pdb
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\obj\Debug\DeleteDataFile.exe
+c:\users\donnellyjw\documents\visual studio 2012\Projects\DeleteSQLDataFile\DeleteSQLDataFile\obj\Debug\DeleteDataFile.pdb
+C:\Users\donnellyjw\Desktop\Projects\DeleteDataFile\DeleteDataFile\bin\Debug\DeleteDataFile.exe.config
+C:\Users\donnellyjw\Desktop\Projects\DeleteDataFile\DeleteDataFile\obj\Debug\DeleteDataFile.exe
+C:\Users\donnellyjw\Desktop\Projects\DeleteDataFile\DeleteDataFile\obj\Debug\DeleteDataFile.pdb
+C:\Users\donnellyjw\Desktop\Projects\DeleteDataFile\DeleteDataFile\bin\Debug\settings.xml
+C:\Users\donnellyjw\Desktop\Projects\DeleteDataFile\DeleteDataFile\bin\Debug\DeleteDataFile.exe
+C:\Users\donnellyjw\Desktop\Projects\DeleteDataFile\DeleteDataFile\bin\Debug\DeleteDataFile.pdb
+C:\Users\donnellyjw\Desktop\Projects\DeleteDataFile\DeleteDataFile\obj\Debug\DeleteDataFile.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DeleteDataFile\DeleteDataFile\bin\Debug\DeleteDataFile.exe.config
+C:\Users\John\Desktop\DeleteDataFile\DeleteDataFile\obj\Debug\DeleteDataFile.exe
+C:\Users\John\Desktop\DeleteDataFile\DeleteDataFile\obj\Debug\DeleteDataFile.pdb
+C:\Users\John\Desktop\DeleteDataFile\DeleteDataFile\bin\Debug\DeleteDataFile.exe
+C:\Users\John\Desktop\DeleteDataFile\DeleteDataFile\bin\Debug\DeleteDataFile.pdb
+C:\Users\John\Desktop\DeleteDataFile\DeleteDataFile\obj\Debug\DeleteDataFile.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DeleteDataFile\DeleteDataFile\bin\Debug\settings.xml

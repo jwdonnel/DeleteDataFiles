@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <FolderFileList>
+    <FolderInfo>
+      <Folder>C:\</Folder>
+      <Files>
+        <File>TEST.file</File>
+      </Files>
+    </FolderInfo>
+    <FolderInfo>
+      <Folder>C:\TEMPFOLDER</Folder>
+    </FolderInfo>
+  </FolderFileList>
+  <CheckInterval help="In seconds. Must be greater than or equal to 1">1</CheckInterval>
+</Settings>

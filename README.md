@@ -16,6 +16,7 @@ If you do not have an settings.xml file, you can run the program and select opti
 <img alt="screenshot2" src="http://my4dashboards.com/CloudFiles/9d4289dc-cb9c-49f1-a747-218004d5c604.PNG" />
 
 The settings.xml should be in this format below:
+<br />
 &lt;Settings&gt;
 <br />
     &lt;FolderFileList&gt;

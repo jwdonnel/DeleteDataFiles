@@ -10,8 +10,10 @@ To use this program, simply enter in the information in the settings.xml file an
 If you do not have an settings.xml file, you can run the program and select option 1.
 
 
-<b>Screen shot</b><br />
+<b>Screen shots</b><br />
 <img alt="screenshot1" src="http://my4dashboards.com/CloudFiles/73e09d1a-6522-4332-9822-983b19e94c38.PNG" />
+<br />
+<img alt="screenshot2" src="http://my4dashboards.com/CloudFiles/9d4289dc-cb9c-49f1-a747-218004d5c604.PNG" />
 
 
 HELP:

@@ -16,20 +16,19 @@ If you do not have an settings.xml file, you can run the program and select opti
 <img alt="screenshot2" src="http://my4dashboards.com/CloudFiles/9d4289dc-cb9c-49f1-a747-218004d5c604.PNG" />
 
 The settings.xml should be in this format below:
-<code>
-<Settings>
-    <FolderFileList>
-        <FolderInfo>
-            <Folder>DIRECTORY</Folder>
-            <Files>
-                <File>SOME FILE</File>
-                <File>SOME FILE</File>
-            </Files>
-        </FolderInfo>
-    </FolderFileList>
-    <CheckInterval>1</CheckInterval>
-</Settings>
-</code>
+&lt;Settings&gt;
+    &lt;FolderFileList&gt;
+        &lt;FolderInfo&gt;
+            &lt;Folder&gt;DIRECTORY&lt;/Folder&gt;
+            &lt;Files>
+                &lt;File&gt;SOME FILE&lt;/File&gt;
+                &lt;File&gt;SOME FILE&lt;/File&gt;
+            &lt;/Files&gt;
+        &lt;/FolderInfo&gt;
+    &lt;/FolderFileList&gt;
+    &lt;CheckInterval&gt;1&lt;/CheckInterval&gt;
+&lt;/Settings&gt;
+
 
 HELP:
  - If you are getting an "Access Denied" error when trying to delete, exit the program and run it again in Administrator Mode.

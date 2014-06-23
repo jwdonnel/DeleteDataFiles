@@ -17,16 +17,27 @@ If you do not have an settings.xml file, you can run the program and select opti
 
 The settings.xml should be in this format below:
 &lt;Settings&gt;
+<br />
     &lt;FolderFileList&gt;
+    <br />
         &lt;FolderInfo&gt;
+        <br />
             &lt;Folder&gt;DIRECTORY&lt;/Folder&gt;
-            &lt;Files>
+            <br />
+            &lt;Files&gt;
+            <br />
                 &lt;File&gt;SOME FILE&lt;/File&gt;
+                <br />
                 &lt;File&gt;SOME FILE&lt;/File&gt;
+                <br />
             &lt;/Files&gt;
+            <br />
         &lt;/FolderInfo&gt;
+        <br />
     &lt;/FolderFileList&gt;
+    <br />
     &lt;CheckInterval&gt;1&lt;/CheckInterval&gt;
+    <br />
 &lt;/Settings&gt;
 
 

@@ -49,4 +49,4 @@ HELP:
 
 
 The code and program are free to use as you wish.
-If you want to contact me, my email is jwdonnel@gmail.com. You can also visit me at my website http://my4dashboards.com.
+If you want to contact me, my email is jwdonnel@gmail.com. You can also visit me at my website https://rssblocks.com.

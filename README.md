@@ -9,6 +9,8 @@ John Donnelly - 6/19/2014
 To use this program, simply enter in the information in the settings.xml file and run this. 
 If you do not have an settings.xml file, you can run the program and select option 1.
 
+Since the program isn't signed, you will need to click on the run anyways to start it.
+
 
 <b>Screen shots</b><br />
 <img alt="screenshot1" src="https://github.com/jwdonnel/DeleteDataFiles/blob/master/DeleteDataFile/example1.png" />
